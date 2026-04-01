@@ -27,30 +27,30 @@ This repository contains the technical seminar documentation for **Anomaly Detec
 
 This study is based on analysis of **5 peer-reviewed research papers**:
 
-1. **Trust Management for Deep Autoencoder-based Anomaly Detection**
-   - Focus: Building trust in autoencoder models
-   - Application: Cybersecurity and network anomaly detection
-   - File: `Paper_106_Trust_Management_for_Deep_Autoencoder_based_Anomaly_Detection.pdf`
-
-2. **IoT Anomaly Detection Paper (IoT-05-00039)**
-   - Focus: Applying autoencoders to IoT sensor data
-   - Key Area: Industrial IoT and smart systems monitoring
-   - File: `IoT-05-00039.pdf`
-
-3. **Research Paper 1904.02639v2**
+1. **Research Paper 1904.02639v2**
    - Focus: Deep learning approaches for anomaly detection
    - Methodology: Unsupervised learning techniques
-   - File: `1904.02639v2.pdf`
+   - File: `paper1-deep-learning-anomaly.pdf`
 
-4. **Research Paper 2408.13561v1**
+2. **Research Paper 2408.13561v1**
    - Focus: Advanced autoencoder architectures
    - Application: Complex pattern recognition
-   - File: `2408.13561v1.pdf`
+   - File: `paper2-advanced-architectures.pdf`
 
-5. **Research Paper 2511.00462v1**
+3. **Research Paper 2511.00462v1**
    - Focus: Optimization and efficiency in anomaly detection models
    - Key Area: Real-time anomaly detection systems
-   - File: `2511.00462v1.pdf`
+   - File: `paper3-optimization.pdf`
+
+4. **IoT Anomaly Detection Paper (IoT-05-00039)**
+   - Focus: Applying autoencoders to IoT sensor data
+   - Key Area: Industrial IoT and smart systems monitoring
+   - File: `paper4-iot-anomaly-detection.pdf`
+
+5. **Trust Management for Deep Autoencoder-based Anomaly Detection**
+   - Focus: Building trust in autoencoder models
+   - Application: Cybersecurity and network anomaly detection
+   - File: `paper5-trust-management.pdf`
 
 **All research papers are included in the `research-papers/` folder.**
 
