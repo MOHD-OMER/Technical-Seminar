@@ -168,13 +168,13 @@ anomaly-detection-autoencoders/
 ├── README.md                          # This file - Overview and guide
 ├── presentation.pdf                   # Class presentation slides
 ├── report.pdf                         # Detailed college report
-│
-└── research-papers/                   # All 5 research papers
-    ├── 1904.02639v2.pdf
-    ├── 2408.13561v1.pdf
-    ├── 2511.00462v1.pdf
-    ├── IoT-05-00039.pdf
-    └── Paper_106_Trust_Management_for_Deep_Autoencoder_based_Anomaly_Detection.pdf
+├── report.pdf
+└── research-papers/
+    ├── paper1-deep-learning-anomaly.pdf
+    ├── paper2-advanced-architectures.pdf
+    ├── paper3-optimization.pdf
+    ├── paper4-iot-anomaly-detection.pdf
+    └── paper5-trust-management.pdf
 ```
 
 ---
