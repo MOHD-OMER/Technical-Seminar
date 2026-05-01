@@ -6,7 +6,7 @@ This repository contains the technical seminar documentation for **Anomaly Detec
 
 **Autoencoders** are unsupervised learning models that learn efficient representations of data by encoding information into a lower-dimensional space and reconstructing it. This technique is particularly valuable for anomaly detection because normal data can be reconstructed well, while anomalous data produces higher reconstruction errors.
 
-### **Key Focus Areas:**
+### **🔑Key Focus Areas:**
 - Architecture and theory of autoencoders
 - Anomaly detection methodologies
 - Deep learning applications
